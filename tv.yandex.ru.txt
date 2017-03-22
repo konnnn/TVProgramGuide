@@ -6,3 +6,4 @@ https://tv.yandex.ru/ajax?params=%5B%7B%22name%22%3A%22i-tv-region%22%2C%22metho
 # Program Guide for a week Request Link
 http://tv.yandex.ru/ajax/i-tv-region/get?params={"channelIds":[138],"start":"2017-03-20T00:00:00%2B03:00","duration":626400,"fields":"channel,id,schedules,events,socialDate,program,type,name,title,description,start,finish,year,persons,name,role,countries,ageRestriction,mainImageBaseUrl,coIds,episode"}&userRegion=213&resource=schedule
 
+http://tv.yandex.ru/ajax/i-tv-region/get?params={"channelIds":[620,583,586,680,937,281,709,228,430,167,280,76,627,939,677,808,453,632,788,128,422,140,507,85,773,940,143,181,670,650,479,326,90,666,753,702,315,435,689,391,1009,458],"duration":43200}&userRegion=187&resource=schedule
