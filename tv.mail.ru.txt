@@ -1,0 +1,2 @@
+# Program Guide Request Link
+https://tv.mail.ru/ajax/channel/?region_id=70&channel_id=1470
