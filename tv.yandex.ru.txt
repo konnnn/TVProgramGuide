@@ -13,8 +13,10 @@ https://tv.yandex.ru/ajax?
 		"name":"i-tv-region",
 		"method":"get",
 		"args":{
-			"params":"{'type':'regional','packageIds':[],'limit':500,'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
-			"cacheKey":"channels?params={'type':'regional','packageIds':[],'limit':500,'fields':['schedules','channels','finish','channel','id','title','favourite']}",
+			"params":"{'type':'regional','packageIds':[],'limit':500,
+			'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
+			"cacheKey":"channels?params={'type':'regional','packageIds':[],'limit':500,	
+			'fields':['schedules','channels','finish','channel','id','title','favourite']}",
 				"userRegion":"225",
 				"resource":"channels",
 				"ncrd":1469479392374
@@ -23,8 +25,10 @@ https://tv.yandex.ru/ajax?
 		"name":"i-tv-region",
 		"method":"get",
 		"args":{
-			"params":"{'type':'local','packageIds':[],'limit':500,'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
-			"cacheKey":"channels?params={'type':'local','packageIds':[],'limit':500,'fields':['schedules','channels','finish','channel','id','title','favourite']}",
+			"params":"{'type':'local','packageIds':[],'limit':500,	
+			'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
+			"cacheKey":"channels?params={'type':'local','packageIds':[],'limit':500,	
+			'fields':['schedules','channels','finish','channel','id','title','favourite']}",
 			"userRegion":"225",
 			"resource":"channels",
 			"ncrd":1469479392374
@@ -33,8 +37,10 @@ https://tv.yandex.ru/ajax?
 		"name":"i-tv-region",
 		"method":"get",
 		"args":{
-			"params":"{'type':'satelite','packageIds':[],'limit':500,'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
-			"cacheKey":"channels?params={'type':'satelite','packageIds':[],'limit':500,'fields':['schedules','channels','finish','channel','id','title','favourite']}",
+			"params":"{'type':'satelite','packageIds':[],'limit':500,
+			'fields':'schedules,channels,finish,channel,id,title,favourite','lang':'ru'}",
+			"cacheKey":"channels?params={'type':'satelite','packageIds':[],'limit':500,
+			'fields':['schedules','channels','finish','channel','id','title','favourite']}",
 			"userRegion":"225",
 			"resource":"channels",
 			"ncrd":1469479392374
