@@ -78,3 +78,8 @@ http://tv.yandex.ru/ajax/i-tv-region/get?params={"channelIds":[1003],"start":"20
 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
+# Яндекс.XML — Регионы поиска
+https://tech.yandex.ru/xml/doc/dg/reference/regions-docpage/
+
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
